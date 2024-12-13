@@ -1,0 +1,101 @@
+{
+  "technologies": [
+    {
+      "id": "00001",
+      "name": "JavaScript",
+      "foundedIn": 1995,
+      "inventedBy": "Brendan Eich",
+      "category": "programming language",
+      "description": "JavaScript (JS) es un lenguaje de programación ligero, interpretado, o compilado justo-a-tiempo (just-in-time) con funciones de primera clase. Si bien es más conocido como un lenguaje de scripting (secuencias de comandos) para páginas web, y es usado en muchos entornos fuera del navegador, tal como Node.js, Apache CouchDB y Adobe Acrobat JavaScript es un lenguaje de programación basada en prototipos, multiparadigma, de un solo hilo, dinámico, con soporte para programación orientada a objetos, imperativa y declarativa (por ejemplo programación funcional)."
+    },
+    {
+      "id": "00002",
+      "name": "HTML",
+      "foundedIn": 1991,
+      "inventedBy": "Tim Berners-Lee",
+      "category": "markup language",
+      "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript). Hipertexto hace referencia a los enlaces que conectan páginas web entre sí, ya sea dentro de un único sitio web o entre sitios web. Los enlaces son un aspecto fundamental de la Web. Al subir contenido a Internet y vincularlo a las páginas creadas por otras personas, te conviertes en un participante activo en la «World Wide Web» (Red Informática Mundial). HTML utiliza marcas para etiquetar texto, imágenes y otro contenido para mostrarlo en un navegador Web."
+    },
+    {
+      "id": "00003",
+      "name": "CSS",
+      "foundedIn": 1996,
+      "inventedBy": "Håkon Wium Lie",
+      "category": "stylesheet language",
+      "description": "Hojas de Estilo en Cascada (del inglés Cascading Style Sheets) o CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML (incluyendo varios lenguajes basados en XML como SVG, MathML o XHTML). CSS describe cómo debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios. CSS es uno de los lenguajes base de la Open Web y posee una especificación estandarizada por parte del W3C. Anteriormente , el desarrollo de varias partes de las especificaciones de CSS era realizado de manera sincrónica, lo que permitía el versionado de las recomendaciones. Probablemente habrás escuchado acerca de CSS1, CSS2.1, CSS3. Sin embargo, CSS4 nunca se ha lanzado como una versión oficial. Desde CSS3, el alcance de las especificaciones se incrementó de forma significativa y el progreso de los diferentes módulos de CSS comenzó a mostrar varias diferencias, lo que hizo más efectivo desarrollar y publicar recomendaciones separadas por módulos. En vez de versionar las especificaciones de CSS, la W3C actualmente realiza una captura de las últimas especificaciones estables de CSS."
+    },
+    {
+      "id": "00004",
+      "name": "React",
+      "foundedIn": 2013,
+      "inventedBy": "Jordan Walke",
+      "category": "JavaScript Library",
+      "description": "Como su eslogan oficial señala, React es una biblioteca para construir interfaces de usuario. React no es un framework — ni siquiera se limita a la web. React es utilizado con otras bibliotecas para renderizar en ciertos entornos. Por ejemplo, React Native puede usarse para desarrollar aplicaciones móviles; React 360 permite crear aplicaciones de realidad virtual; además de otras posibilidades. Al desarrollar para la web, los desarrolladores usan React en conjunto con ReactDOM. React y ReactDOM son, a menudo, considerados al igual que —y utilizados para resolver los mismo problemas que— otros verdaderos frameworks de desarrollo web. Cuando nos referimos a React como un framework, estamos trabajando con este significado coloquial. El objetivo principal de React es minimizar los errores que ocurren cuando los desarrolladores construyen interfaces de usuario. Esto lo hace mediante el uso de componentes — piezas de código lógicas y auto-contenidas que describen una parte de la interfaz del usuario. Estos componentes se pueden juntar para crear una interfaz de usuario completa, y React abstrae la mayor parte del trabajo de renderizado, permitiéndote enfocarte en el diseño de la interfaz."
+    }
+  ],
+
+  "flipCards": [
+    {
+      "title": "console.log()",
+      "resume": "método de JavaScript que se utiliza para imprimir mensajes o valores en la consola del navegador, lo que ayuda en la depuración del código.",
+      "description": "Muestra un mensaje en la consola web (o del intérprete JavaScript). console.log() es uno de los métodos más comunes de la API console en JavaScript. Sirve principalmente para imprimir mensajes o valores en la consola del navegador o del entorno de desarrollo. Es una herramienta crucial para la depuración del código, ya que permite a los desarrolladores ver el valor de las variables, el estado de la aplicación o los resultados de las operaciones sin necesidad de interrumpir el flujo del programa.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Web/API/console/log_static",
+      "technologyId": "00001",
+      "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+      "flipCount": 0
+    },
+    {
+      "title": ".split()",
+      "resume": "método de JavaScript que divide una cadena en un arreglo de subcadenas usando un separador especificado.",
+      "description": "El método .split() en JavaScript pertenece al prototipo de cadenas (String.prototype) y se utiliza para dividir una cadena en un arreglo de subcadenas, separándola según un patrón especificado (separador). Es útil para manipular texto, como separar palabras, extraer valores de una lista o procesar datos.",
+      "officialDoc": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split",
+      "technologyId": "00001",
+      "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+      "flipCount": 0
+    },
+    {
+      "title": "<div></div>",
+      "resume": "elemento HTML usado como contenedor genérico para agrupar contenido y estructurar páginas web.",
+      "description": "El elemento <div> (abreviatura de division) es un contenedor genérico en HTML que no tiene un significado semántico propio. Se utiliza principalmente para agrupar otros elementos y aplicar estilos o scripts específicos.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/div",
+      "technologyId": "00002",
+      "flipCount": 0
+    },
+    {
+      "title": "<form></form>",
+      "resume": "elemento HTML que permite crear formularios para recopilar y enviar datos al servidor.",
+      "description": "El elemento <form> en HTML se utiliza para crear formularios interactivos que los usuarios pueden rellenar y enviar. Es esencial para la comunicación entre el cliente y el servidor en aplicaciones web.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/form",
+      "technologyId": "00002",
+      "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+      "flipCount": 0
+    },
+    {
+      "title": "filter",
+      "resume": "La propiedad filter en CSS aplica efectos visuales como desenfoque, brillo o saturación a elementos HTML.",
+      "description": "La propiedad filter en CSS permite modificar la apariencia de un elemento aplicando efectos gráficos, como sombras, desenfoque, escalas de grises y mucho más. Es una herramienta poderosa para mejorar la estética de una página sin necesidad de editar imágenes externas.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Web/CSS/filter",
+      "technologyId": "00003",
+      "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+      "flipCount": 0
+    },
+    {
+      "title": "useState",
+      "resume": "Hook para manejar estados en componentes funcionales.",
+      "description": "El hook `useState` permite agregar y gestionar estados locales en componentes funcionales de React. Retorna un array con dos valores: el estado actual y una función para actualizarlo. Se usa comúnmente para manejar datos dinámicos como inputs, contadores o datos de una API.",
+      "officialDoc": "https://react.dev/reference/react/useState",
+      "technologyId": "00004",
+      "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+      "flipCount": 0
+    },
+    {
+      "title": "useEffect",
+      "resume": "Hook para manejar efectos secundarios en componentes.",
+      "description": "El hook `useEffect` permite ejecutar código como respuesta a cambios en el ciclo de vida del componente. Puede usarse para realizar operaciones como llamadas a APIs, suscripciones a eventos o modificar el DOM. Admite dependencias para controlar cuándo se ejecuta.",
+      "officialDoc": "https://react.dev/reference/react/useEffect",
+      "technologyId": "00004",
+      "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+      "flipCount": 0
+    }
+  ]
+}
