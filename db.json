@@ -33,9 +33,9 @@
       "description": "Como su eslogan oficial señala, React es una biblioteca para construir interfaces de usuario. React no es un framework — ni siquiera se limita a la web. React es utilizado con otras bibliotecas para renderizar en ciertos entornos. Por ejemplo, React Native puede usarse para desarrollar aplicaciones móviles; React 360 permite crear aplicaciones de realidad virtual; además de otras posibilidades. Al desarrollar para la web, los desarrolladores usan React en conjunto con ReactDOM. React y ReactDOM son, a menudo, considerados al igual que —y utilizados para resolver los mismo problemas que— otros verdaderos frameworks de desarrollo web. Cuando nos referimos a React como un framework, estamos trabajando con este significado coloquial. El objetivo principal de React es minimizar los errores que ocurren cuando los desarrolladores construyen interfaces de usuario. Esto lo hace mediante el uso de componentes — piezas de código lógicas y auto-contenidas que describen una parte de la interfaz del usuario. Estos componentes se pueden juntar para crear una interfaz de usuario completa, y React abstrae la mayor parte del trabajo de renderizado, permitiéndote enfocarte en el diseño de la interfaz."
     }
   ],
-
   "flipCards": [
     {
+      "id": "f01",
       "title": "console.log()",
       "resume": "método de JavaScript que se utiliza para imprimir mensajes o valores en la consola del navegador, lo que ayuda en la depuración del código.",
       "description": "Muestra un mensaje en la consola web (o del intérprete JavaScript). console.log() es uno de los métodos más comunes de la API console en JavaScript. Sirve principalmente para imprimir mensajes o valores en la consola del navegador o del entorno de desarrollo. Es una herramienta crucial para la depuración del código, ya que permite a los desarrolladores ver el valor de las variables, el estado de la aplicación o los resultados de las operaciones sin necesidad de interrumpir el flujo del programa.",
@@ -45,6 +45,7 @@
       "flipCount": 0
     },
     {
+      "id": "f02",
       "title": ".split()",
       "resume": "método de JavaScript que divide una cadena en un arreglo de subcadenas usando un separador especificado.",
       "description": "El método .split() en JavaScript pertenece al prototipo de cadenas (String.prototype) y se utiliza para dividir una cadena en un arreglo de subcadenas, separándola según un patrón especificado (separador). Es útil para manipular texto, como separar palabras, extraer valores de una lista o procesar datos.",
@@ -54,7 +55,8 @@
       "flipCount": 0
     },
     {
-      "title": "<div></div>",
+      "id": "f03",
+      "title": "<div>",
       "resume": "elemento HTML usado como contenedor genérico para agrupar contenido y estructurar páginas web.",
       "description": "El elemento <div> (abreviatura de division) es un contenedor genérico en HTML que no tiene un significado semántico propio. Se utiliza principalmente para agrupar otros elementos y aplicar estilos o scripts específicos.",
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/div",
@@ -62,15 +64,17 @@
       "flipCount": 0
     },
     {
-      "title": "<form></form>",
-      "resume": "elemento HTML que permite crear formularios para recopilar y enviar datos al servidor.",
-      "description": "El elemento <form> en HTML se utiliza para crear formularios interactivos que los usuarios pueden rellenar y enviar. Es esencial para la comunicación entre el cliente y el servidor en aplicaciones web.",
+      "title": "<form>",
+      "resume": "Elemento HTML que permite crear formularios para recopilar y enviar datos al servidor. texto añadido para prueba",
+      "description": "El elemento <form> en HTML se utiliza para crear formularios interactivos que los usuarios pueden rellenar y enviar. Es esencial para la comunicación entre el cliente y el servidor en aplicaciones web. texto añadido para prubea",
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/form",
       "technologyId": "00002",
       "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-      "flipCount": 0
+      "flipCount": 0,
+      "id": "f04"
     },
     {
+      "id": "f05",
       "title": "filter",
       "resume": "La propiedad filter en CSS aplica efectos visuales como desenfoque, brillo o saturación a elementos HTML.",
       "description": "La propiedad filter en CSS permite modificar la apariencia de un elemento aplicando efectos gráficos, como sombras, desenfoque, escalas de grises y mucho más. Es una herramienta poderosa para mejorar la estética de una página sin necesidad de editar imágenes externas.",
@@ -80,6 +84,7 @@
       "flipCount": 0
     },
     {
+      "id": "f06",
       "title": "useState",
       "resume": "Hook para manejar estados en componentes funcionales.",
       "description": "El hook `useState` permite agregar y gestionar estados locales en componentes funcionales de React. Retorna un array con dos valores: el estado actual y una función para actualizarlo. Se usa comúnmente para manejar datos dinámicos como inputs, contadores o datos de una API.",
@@ -89,6 +94,7 @@
       "flipCount": 0
     },
     {
+      "id": "f07",
       "title": "useEffect",
       "resume": "Hook para manejar efectos secundarios en componentes.",
       "description": "El hook `useEffect` permite ejecutar código como respuesta a cambios en el ciclo de vida del componente. Puede usarse para realizar operaciones como llamadas a APIs, suscripciones a eventos o modificar el DOM. Admite dependencias para controlar cuándo se ejecuta.",
