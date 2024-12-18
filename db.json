@@ -102,6 +102,66 @@
       "technologyId": "00004",
       "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
       "flipCount": 0
+    },
+    {
+      "title": ".push( )",
+      "resume": "agrega un nuevo elemento (o varios elementos) al final de la matriz especificada",
+      "description": "El método push es muy práctico para añadir valores a un array.  push es genérico intencionadamente. Este método puede ser call() o apply() a objetos que representen arrays. El método push depende de la propiedad length para decidir donde empezar a insertar los valores dados. Si el valor de la propiedad length no puede ser convertido en numérico, el índice 0 es usado. Esto permite la posibilidad de que la propiedad length sea inexistente, y en este caso length será creado.  Los únicos objetos nativos que se asemejen al array son strings objetos, aunque estos no se puedan usar en la aplicación de este método ya que son inmutables.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/push",
+      "technologyId": "00001",
+      "imgUrl": "",
+      "flipCount": 0,
+      "id": "NouQfr5"
+    },
+    {
+      "title": ".unshift( )",
+      "resume": "agrega un nuevo elemento (o varios elementos) al comienzo de la matriz especificada.",
+      "description": "El método unshift inserta los valores proporcionados al inicio de un objeto del tipo array.  unshift es intencionalmente genérico; este método puede ser called o applied a objetos similares a arrays. Objetos que no contengan una propiedad length reflejando una serie de propiedades numéricas consecutivas, comenzada a partir del cero, pueden no comportarse de una manera comprensible.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift",
+      "technologyId": "00001",
+      "imgUrl": "",
+      "flipCount": 0,
+      "id": "PDWBvZN"
+    },
+    {
+      "title": "<span>",
+      "resume": "contenedor genérico en línea para texto",
+      "description": "No tiene ningún significado semántico más allá de \"Oye, este texto es especial y voy a cambiarlo de alguna manera\".",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/span",
+      "technologyId": "00002",
+      "imgUrl": "",
+      "flipCount": 0,
+      "id": "7D7jZev"
+    },
+    {
+      "title": "DOM",
+      "resume": "forma en que el navegador lee el documento HTML",
+      "description": "El DOM (Document Object Model, en español Modelo de Objetos del Documento) es una API definida para representar e interactuar con cualquier documento HTML o XML. El DOM es un modelo de documento que se carga en el navegador web y que representa el documento como un árbol de nodos, en donde cada nodo representa una parte del documento (puede tratarse de un elemento, una cadena de texto o un comentario).  El DOM es una de las APIs más usadas en la Web, pues permite ejecutar código en el navegador para acceder e interactuar con cualquier nodo del documento. Estos nodos pueden crearse, moverse o modificarse. Pueden añadirse a estos nodos manejadores de eventos (event listeners en inglés) que se ejecutarán/activarán cuando ocurra el evento indicado en este manejador.  El DOM surgió a partir de la implementación de JavaScript en los navegadores. A esta primera versión también se la conoce como DOM 0 o \"Legacy DOM\". Hoy en día el grupo WHATWG es el encargado de actualizar el estándar de DOM.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Glossary/DOM",
+      "technologyId": "00002",
+      "imgUrl": "",
+      "flipCount": 0,
+      "id": "gn73XTW"
+    },
+    {
+      "title": "Flexbox",
+      "resume": "organiza, alinea y reorganiza automáticamente el contenido de acuerdo con los cambios de ancho y alto del dispositivo mientras aún conserva las proporciones que ha escrito en su código",
+      "description": "Flexbox es un método de diseño de página unidimensional para compaginar elementos en filas o columnas. Los elementos de contenido se ensanchan para rellenar el espacio adicional y se encogen para caber en espacios más pequeños. En este artículo expondremos todas sus características básicas. Durante mucho tiempo, las únicas herramientas fiables con compatibilidad cruzada entre navegadores disponibles para crear diseños CSS fueron cosas como la flotación y el posicionamiento. Están bien y funcionan, pero de alguna manera también limitan bastante y frustran.  Con tales herramientas resulta difícil, si no imposible, lograr obtener en cualquier forma conveniente y flexible un diseño de página sencillo con unos requisitos como los siguientes:  Centrar verticalmente un bloque de contenido dentro de su elemento padre. Hacer que todos los elementos secundarios de un contenedor ocupen una cantidad igual del ancho/alto disponible, independientemente del ancho/alto que haya disponible. Hacer que todas las columnas en una compaginación en columnas múltiples adopten la misma altura incluso si contienen cantidades diferentes de contenido. Como verás en las secciones siguientes, los elementos flexbox facilitan mucho algunas tareas de compaginación.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox",
+      "technologyId": "00003",
+      "imgUrl": "",
+      "flipCount": 0,
+      "id": "mnr4Yqn"
+    },
+    {
+      "title": "<aside>",
+      "resume": "parte de una página web, donde su contenido no está directamente relacionado con el contenido principal que se muestra en la página",
+      "description": "El elemento HTML <aside> representa una sección de una página que consiste en contenido que está indirectamente relacionado con el contenido principal del documento. Estas secciones son a menudo representadas como barras laterales o como inserciones y contienen una explicación al margen como una definición de glosario, elementos relacionados indirectamente, como publicidad, la biografía del autor, o en aplicaciones web, la información de perfil o enlaces a blogs relacionados.",
+      "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/aside",
+      "technologyId": "00002",
+      "imgUrl": "",
+      "flipCount": 0,
+      "id": "l-9yc1U"
     }
   ]
 }
