@@ -21,10 +21,11 @@ La colección `technologies` contiene la siguiente estructura:
   "category": String,
   "description": String
 }
-
+```
 #### **flipCards**
 
 La colección `flipCards` contiene la siguiente estructura:  
+```json
 {
   "id": Number,
   "title": String,
