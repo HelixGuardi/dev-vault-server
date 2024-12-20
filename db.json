@@ -42,7 +42,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/API/console/log_static",
       "technologyId": "00001",
       "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-      "flipCount": 0
+      "flipCount": 25
     },
     {
       "id": "f02",
@@ -52,7 +52,7 @@
       "officialDoc": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split",
       "technologyId": "00001",
       "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-      "flipCount": 0
+      "flipCount": 8
     },
     {
       "id": "f03",
@@ -61,7 +61,7 @@
       "description": "El elemento <div> (abreviatura de division) es un contenedor genérico en HTML que no tiene un significado semántico propio. Se utiliza principalmente para agrupar otros elementos y aplicar estilos o scripts específicos.",
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/div",
       "technologyId": "00002",
-      "flipCount": 0
+      "flipCount": 8
     },
     {
       "title": "<form>",
@@ -70,7 +70,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/form",
       "technologyId": "00002",
       "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-      "flipCount": 0,
+      "flipCount": 11,
       "id": "f04"
     },
     {
@@ -81,7 +81,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/CSS/filter",
       "technologyId": "00003",
       "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-      "flipCount": 0
+      "flipCount": 2
     },
     {
       "id": "f06",
@@ -91,7 +91,7 @@
       "officialDoc": "https://react.dev/reference/react/useState",
       "technologyId": "00004",
       "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-      "flipCount": 0
+      "flipCount": 3
     },
     {
       "id": "f07",
@@ -101,7 +101,7 @@
       "officialDoc": "https://react.dev/reference/react/useEffect",
       "technologyId": "00004",
       "imgUrl": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-      "flipCount": 0
+      "flipCount": 3
     },
     {
       "title": ".push( )",
@@ -110,7 +110,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/push",
       "technologyId": "00001",
       "imgUrl": "",
-      "flipCount": 0,
+      "flipCount": 3,
       "id": "NouQfr5"
     },
     {
@@ -120,7 +120,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift",
       "technologyId": "00001",
       "imgUrl": "",
-      "flipCount": 0,
+      "flipCount": 3,
       "id": "PDWBvZN"
     },
     {
@@ -130,7 +130,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/span",
       "technologyId": "00002",
       "imgUrl": "",
-      "flipCount": 0,
+      "flipCount": 2,
       "id": "7D7jZev"
     },
     {
@@ -140,7 +140,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Glossary/DOM",
       "technologyId": "00002",
       "imgUrl": "",
-      "flipCount": 0,
+      "flipCount": 2,
       "id": "gn73XTW"
     },
     {
@@ -150,7 +150,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox",
       "technologyId": "00003",
       "imgUrl": "",
-      "flipCount": 0,
+      "flipCount": 2,
       "id": "mnr4Yqn"
     },
     {
@@ -160,7 +160,7 @@
       "officialDoc": "https://developer.mozilla.org/es/docs/Web/HTML/Element/aside",
       "technologyId": "00002",
       "imgUrl": "",
-      "flipCount": 0,
+      "flipCount": 2,
       "id": "l-9yc1U"
     }
   ]
